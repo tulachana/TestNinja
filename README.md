@@ -1,4 +1,4 @@
-Test Ninja
+another test
 
 # TestNinja
 Repository is to test Review Ninja
